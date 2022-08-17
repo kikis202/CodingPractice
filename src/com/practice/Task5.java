@@ -18,6 +18,7 @@ public class Task5 {
         System.out.println("Enter boolean value: ");
         boolean b1 = scanner.nextBoolean();
 
+        /// Output
         System.out.printf("Opposite of \"%b\" is \"%b\"%n", b1, !b1);
     }
 }

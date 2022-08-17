@@ -14,6 +14,7 @@ public class Task4 {
         System.out.println("Enter a whole number: ");
         int x = scanner.nextInt();
 
+        /// Output
         System.out.println(x % 2 == 1);
     }
 }

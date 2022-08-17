@@ -27,6 +27,8 @@ public class Task6 {
         System.out.println("Enter value b: ");
         int b = scanner.nextInt();
 
-        System.out.println(a == b || (a < 0 && b > 0) || (a > 100 && b > 100));
+        // Output
+        boolean valid = a == b || (a < 0 && b > 0) || (a > 100 && b > 100);
+        System.out.println(valid);
     }
 }
