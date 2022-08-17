@@ -19,20 +19,18 @@ public class Task1 {
         Scanner scanner = new Scanner(System.in);
 
         /// Input
-        System.out.printf("Enter value a: ");
+        System.out.println("Enter value a: ");
         int a = scanner.nextInt();
 
-        System.out.printf("Enter value b: ");
+        System.out.println("Enter value b: ");
         int b = scanner.nextInt();
 
         /// Output
-        System.out.println();
-        System.out.printf("is %d equal to %d? - %b%n", a, b, a == b);
+        System.out.printf("%nis %d equal to %d? - %b%n", a, b, a == b);
         System.out.printf("is %d less than %d? - %b%n", a, b, a < b);
         System.out.printf("is %d less or equal to %d? - %b%n", a, b, a <= b);
         System.out.printf("is %d greater than %d? - %b%n", a, b, a > b);
         System.out.printf("is %d greater or equal to %d? - %b%n", a, b, a >= b);
-        System.out.println();
 
     }
 }
