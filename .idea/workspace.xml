@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Rendamed path for day2 tasks, added path for day3 tasks">
-      <change afterPath="$PROJECT_DIR$/src/com/day3/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day3/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +44,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day2.Task2" />
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day3.Task1" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day2.*" />
+          <option name="PATTERN" value="com.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660733916032</updated>
       <workItem from="1660733917284" duration="4554000" />
-      <workItem from="1660803358460" duration="142000" />
+      <workItem from="1660803358460" duration="891000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -193,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660737877566</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Rendamed path for day2 tasks, added path for day3 tasks">
+      <created>1660803505825</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660803505825</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

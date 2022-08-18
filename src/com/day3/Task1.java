@@ -15,8 +15,19 @@ package com.day3;
        2) Arrays should be the size of [10][10]
  */
 
+import java.util.Arrays;
+
 public class Task1 {
     public static void main(String[] args) {
-
+        // declare 2d array
+        int[][] mTable = new int[10][10];
+        // fill the array with multiplication table
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < 10; j++) {
+                mTable[i][j] = (i+1)*(j+1);
+            }
+        }
+        // turn the 2d array in string output
+        System.out.println(Arrays.deepToString(mTable).replace("], ", "]\n"));
     }
 }
