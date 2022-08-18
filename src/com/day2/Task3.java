@@ -1,4 +1,4 @@
-package com.practice;
+package com.day2;
 
 /*
 3) Ask user to input a whole number and output true, if it is even number

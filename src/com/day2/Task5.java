@@ -1,4 +1,4 @@
-package com.practice;
+package com.day2;
 
 /*
 5) Write a program which reads boolean value from user and prints out the opposite value:

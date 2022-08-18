@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Task5 and Task6 done">
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Rendamed path for day2 tasks, added path for day3 tasks">
+      <change afterPath="$PROJECT_DIR$/src/com/day3/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day2/Task6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/krist/git/CodingPractice",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/krist/git/CodingPractice&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Task6">
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Task2" />
+      <option name="MAIN_CLASS_NAME" value="com.day2.Task2" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,11 +65,11 @@
       </method>
     </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Task3" />
+      <option name="MAIN_CLASS_NAME" value="com.day2.Task3" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +78,11 @@
       </method>
     </configuration>
     <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Task4" />
+      <option name="MAIN_CLASS_NAME" value="com.day2.Task4" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Task5" />
+      <option name="MAIN_CLASS_NAME" value="com.day2.Task5" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.Task6" />
+      <option name="MAIN_CLASS_NAME" value="com.day2.Task6" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.*" />
+          <option name="PATTERN" value="com.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,7 +134,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660733916032</updated>
-      <workItem from="1660733917284" duration="3899000" />
+      <workItem from="1660733917284" duration="4554000" />
+      <workItem from="1660803358460" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -182,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660737739430</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Formated Tasks: 3; 4; 5; 6">
+      <created>1660737877566</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660737877566</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +219,8 @@
     <MESSAGE value="Task3 done" />
     <MESSAGE value="Task4 done" />
     <MESSAGE value="Task5 and Task6 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task5 and Task6 done" />
+    <MESSAGE value="Formated Tasks: 3; 4; 5; 6" />
+    <MESSAGE value="Rendamed path for day2 tasks, added path for day3 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rendamed path for day2 tasks, added path for day3 tasks" />
   </component>
 </project>

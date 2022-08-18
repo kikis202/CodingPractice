@@ -1,4 +1,4 @@
-package com.practice;
+package com.day2;
 
 /*
 2) Ask user to input two boolean values and compare them.
