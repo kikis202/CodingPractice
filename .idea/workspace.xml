@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Task2 done">
-      <change afterPath="$PROJECT_DIR$/src/com/day3/BankAccount.java" afterDir="false" />
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Created class BankAccount with required properties and methods">
       <change afterPath="$PROJECT_DIR$/src/com/day3/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day3/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task2">
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day3.Task1" />
       <module name="CodingPractice" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day2.Task4" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day3.Task3" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day2.*" />
+          <option name="PATTERN" value="com.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660733916032</updated>
       <workItem from="1660733917284" duration="4554000" />
-      <workItem from="1660803358460" duration="3320000" />
+      <workItem from="1660803358460" duration="3698000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660805578754</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Created class BankAccount with required properties and methods">
+      <created>1660806774789</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660806774789</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +245,7 @@
     <MESSAGE value="Rendamed path for day2 tasks, added path for day3 tasks" />
     <MESSAGE value="Task1 done" />
     <MESSAGE value="Task2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task2 done" />
+    <MESSAGE value="Created class BankAccount with required properties and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created class BankAccount with required properties and methods" />
   </component>
 </project>

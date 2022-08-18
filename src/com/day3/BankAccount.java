@@ -41,7 +41,7 @@ public class BankAccount {
 
     /** displays the current balance to user **/
     public void printBalance() {
-        System.out.printf("Current balance: %b%n", balance);
+        System.out.printf("Current balance: %f%n", balance);
     }
 
     /** method for transfer balance from one bank account to another **/
