@@ -53,11 +53,11 @@ public class BankAccount {
             return;
         }
         if (amount > depositLimit) {
-            System.out.printf("Transaction canceled. Max deposit - %f | Your deposit: %f%n", depositLimit, amount);
+            System.out.printf("Transaction canceled. Max deposit - %3.2f | Your deposit: %3.2f%n", depositLimit, amount);
             return;
         }
         balance += amount;
-        System.out.printf("Successfully deposited %f | current account balance: %f%n", amount, balance);
+        System.out.printf("Successfully deposited %3.2f | current account balance: %3.2f%n", amount, balance);
     }
 
     /**
@@ -73,14 +73,14 @@ public class BankAccount {
             return;
         }
         balance -= amount;
-        System.out.printf("Successfully withdrawn %f | current account balance: %f%n", amount, balance);
+        System.out.printf("Successfully withdrawn %3.2f | current account balance: %3.2f%n", amount, balance);
     }
 
     /**
      * displays the current balance to user
      **/
     public void printBalance() {
-        System.out.printf("Current balance: %f%n", balance);
+        System.out.printf("Current balance: %3.2f%n", balance);
     }
 
     /**
@@ -92,11 +92,11 @@ public class BankAccount {
             return;
         }
         if (balance < amount) {
-            System.out.printf("Transfer canceled. You are trying to transfer %f units, but only %f are available.%n", amount, balance);
+            System.out.printf("Transfer canceled. You are trying to transfer %3.2f units, but only %3.2f are available.%n", amount, balance);
             return;
         }
         this.withdraw(amount);
         ba.deposit(amount);
-        System.out.printf("Transaction successful | current account balance: %f%n", balance);
+        System.out.printf("Transaction successful | current account balance: %3.2f%n", balance);
     }
 }

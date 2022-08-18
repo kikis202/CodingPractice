@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Task3 done, demonstrating the use of class BankAccount">
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="class BankAccount updated to match Task4 requirements">
       <change afterPath="$PROJECT_DIR$/src/com/day3/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/day3/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day3/BankAccount.java" afterDir="false" />
@@ -45,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day3.Task1" />
       <module name="CodingPractice" />
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day2.Task5" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day3.Task4" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day2.*" />
+          <option name="PATTERN" value="com.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660733916032</updated>
       <workItem from="1660733917284" duration="4554000" />
-      <workItem from="1660803358460" duration="5109000" />
+      <workItem from="1660803358460" duration="5636000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -230,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660807324454</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="class BankAccount updated to match Task4 requirements">
+      <created>1660808629314</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660808629314</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +269,7 @@
     <MESSAGE value="Created class BankAccount with required properties and methods" />
     <MESSAGE value="Fixed printBalance() method, to print the right datatype" />
     <MESSAGE value="Task3 done, demonstrating the use of class BankAccount" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task3 done, demonstrating the use of class BankAccount" />
+    <MESSAGE value="class BankAccount updated to match Task4 requirements" />
+    <option name="LAST_COMMIT_MESSAGE" value="class BankAccount updated to match Task4 requirements" />
   </component>
 </project>
