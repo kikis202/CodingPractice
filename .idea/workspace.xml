@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Task4 demonstrates the usage of class BankAccount after the new changes">
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Created a Vehicle class">
       <change afterPath="$PROJECT_DIR$/src/com/day3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day3/OwnedCar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/day3/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day3/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day3/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2DTrSZTmC6n622VtUBQyTvtbMwK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -131,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660733916032</updated>
       <workItem from="1660733917284" duration="4554000" />
-      <workItem from="1660803358460" duration="9510000" />
+      <workItem from="1660803358460" duration="12398000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -252,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660809178781</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Created a Vehicle class">
+      <created>1660813044957</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1660813044957</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +295,7 @@
     <MESSAGE value="class BankAccount updated to match Task4 requirements" />
     <MESSAGE value="fixed double formatting for printing" />
     <MESSAGE value="Task4 demonstrates the usage of class BankAccount after the new changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task4 demonstrates the usage of class BankAccount after the new changes" />
+    <MESSAGE value="Created a Vehicle class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a Vehicle class" />
   </component>
 </project>

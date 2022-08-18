@@ -11,7 +11,7 @@ package com.day3;
  */
 
 public class Vehicle {
-    private boolean engineIgnited = false;
+    protected boolean engineIgnited = false;
 
 
     public Vehicle() {
