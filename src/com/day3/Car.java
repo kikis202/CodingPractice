@@ -3,47 +3,39 @@ package com.day3;
 public class Car extends Vehicle {
     protected String brand = "Unknown";
     protected String model = "Unknown";
-    protected String engineType = "Unknown";
+
     protected String color = "white";
     protected int gears = 1;
     protected float maxSpeed = 0;
     protected float maxReverseSpeed = 0;
-    protected float fuelTankSize = 0;
-    protected float weight = 0;
-    protected int seatCount = 0;
+
 
     public Car() {
         super();
     }
 
-    public Car(boolean engineIgnited) {
-        super(engineIgnited);
+    public Car(float weight, int seatCount, float fuelTankSize, String vehicleClass, String engineType) {
+        super(weight, seatCount, fuelTankSize, vehicleClass, engineType);
     }
 
-    public Car(String brand, String model, String engineType, int gears, float maxSpeed, float maxReverseSpeed, float fuelTankSize, float weight, int seatCount) {
+    public Car(String brand, String model, String color, int gears, float maxSpeed, float maxReverseSpeed) {
         super();
         this.brand = brand;
         this.model = model;
-        this.engineType = engineType;
+        this.color = color;
         this.gears = gears;
         this.maxSpeed = maxSpeed;
         this.maxReverseSpeed = maxReverseSpeed;
-        this.fuelTankSize = fuelTankSize;
-        this.weight = weight;
-        this.seatCount = seatCount;
     }
 
-    public Car(boolean engineIgnited, String brand, String model, String engineType, int gears, float maxSpeed, float maxReverseSpeed, float fuelTankSize, float weight, int seatCount) {
-        super(engineIgnited);
+    public Car(float weight, int seatCount, float fuelTankSize, String vehicleClass, String engineType, String brand, String model, String color , int gears, float maxSpeed, float maxReverseSpeed) {
+        super(weight, seatCount, fuelTankSize, vehicleClass, engineType);
         this.brand = brand;
         this.model = model;
-        this.engineType = engineType;
+        this.color = color;
         this.gears = gears;
         this.maxSpeed = maxSpeed;
         this.maxReverseSpeed = maxReverseSpeed;
-        this.fuelTankSize = fuelTankSize;
-        this.weight = weight;
-        this.seatCount = seatCount;
     }
 
     public void setBrand(String brand) {
@@ -136,7 +128,7 @@ public class Car extends Vehicle {
 
     public void setWeight(float weight) {
         if (weight < 0) {
-            System.out.println("Car's wieght can't be negative\n");
+            System.out.println("Car's weight can't be negative\n");
             return;
         }
         this.weight = weight;

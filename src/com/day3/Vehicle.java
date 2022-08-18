@@ -11,18 +11,25 @@ package com.day3;
  */
 
 public class Vehicle {
-    protected boolean engineIgnited = false;
+
+    protected float weight = 0;
+    protected int seatCount = 0;
+    protected float fuelTankSize = 0;
+    private String vehicleClass = "Unknown";
+    protected String engineType = "Unknown";
 
 
     public Vehicle() {
 
     }
 
-    public Vehicle(boolean engineIgnited) {
-        this.engineIgnited = engineIgnited;
+    public Vehicle(float weight, int seatCount, float fuelTankSize, String vehicleClass, String engineType) {
+        this.weight = weight;
+        this.seatCount = seatCount;
+        this.fuelTankSize = fuelTankSize;
+        this.vehicleClass = vehicleClass;
+        this.engineType = engineType;
     }
 
-    public void toggleEngine() {
-        engineIgnited = !engineIgnited;
-    }
+
 }
