@@ -31,5 +31,55 @@ public class Vehicle {
         this.engineType = engineType;
     }
 
+    public void setWeight(float weight) {
+        if (weight < 0) {
+            System.out.println("Car's weight can't be negative\n");
+            return;
+        }
+        this.weight = weight;
+    }
 
+    public float getWeight() {
+        return weight;
+    }
+
+    public void setFuelTankSize(float volume) {
+        if (volume < 0) {
+            System.out.println("Volume can't be negative\n");
+            return;
+        }
+        this.fuelTankSize = volume;
+    }
+
+    public float getFuelTankSize() {
+        return fuelTankSize;
+    }
+
+    public void setSeatCount(int seatCount) {
+        if (seatCount < 0) {
+            System.out.println("Seat count can't be negative\n");
+            return;
+        }
+        this.seatCount = seatCount;
+    }
+
+    public int getSeatCount() {
+        return seatCount;
+    }
+
+    public void setEngineType(String engineType) {
+        this.engineType = engineType;
+    }
+
+    public String getEngineType() {
+        return engineType;
+    }
+
+    public void setVehicleClass(String vehicleClass) {
+        this.vehicleClass = vehicleClass;
+    }
+
+    public String getVehicleClass() {
+        return vehicleClass;
+    }
 }
