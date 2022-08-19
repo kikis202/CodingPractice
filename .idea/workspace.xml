@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Completed &quot;OwnedCar&quot; class">
-      <change afterPath="$PROJECT_DIR$/src/com/day4/ArrayListExercises.java" afterDir="false" />
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Some ArrayList exercises done">
+      <change afterPath="$PROJECT_DIR$/src/com/day4/LinkedListExercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayListExercises">
+  <component name="RunManager" selected="Application.LinkedListExercises">
     <configuration name="ArrayListExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day4.ArrayListExercises" />
       <module name="CodingPractice" />
@@ -58,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day3.Task1" />
+    <configuration name="LinkedListExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day4.LinkedListExercises" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day3.*" />
+          <option name="PATTERN" value="com.day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListExercises" />
         <item itemvalue="Application.ArrayListExercises" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <updated>1660733916032</updated>
       <workItem from="1660733917284" duration="4554000" />
       <workItem from="1660803358460" duration="17099000" />
-      <workItem from="1660889982722" duration="1702000" />
+      <workItem from="1660889982722" duration="3614000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -300,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660890219237</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Some ArrayList exercises done">
+      <created>1660891747197</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1660891747197</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +349,7 @@
     <MESSAGE value="Added / rearranged methods, to set / get attributes" />
     <MESSAGE value="Created class OwnedCar, that extends class Car" />
     <MESSAGE value="Completed &quot;OwnedCar&quot; class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed &quot;OwnedCar&quot; class" />
+    <MESSAGE value="Some ArrayList exercises done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some ArrayList exercises done" />
   </component>
 </project>
