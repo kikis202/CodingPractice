@@ -11,6 +11,33 @@ public class OwnedCar extends Car{
     public OwnedCar(){
         super();
     }
+    public OwnedCar(String owner){
+        super();
+        this.owner = owner;
+    }
+
+    public OwnedCar(float weight, int seatCount, float fuelTankSize, String vehicleClass, String engineType) {
+        super(weight, seatCount, fuelTankSize, vehicleClass, engineType);
+    }
+    public OwnedCar(String owner, float weight, int seatCount, float fuelTankSize, String vehicleClass, String engineType) {
+        super(weight, seatCount, fuelTankSize, vehicleClass, engineType);
+        this.owner = owner;
+    }
+
+    public OwnedCar(String brand, String model, String color, int gears, float maxSpeed, float maxReverseSpeed) {
+        super(brand, model, color, gears, maxSpeed, maxReverseSpeed);
+    }
+    public OwnedCar(String owner, String brand, String model, String color, int gears, float maxSpeed, float maxReverseSpeed) {
+        super(brand, model, color, gears, maxSpeed, maxReverseSpeed);
+        this.owner = owner;
+    }
+    public OwnedCar(float weight, int seatCount, float fuelTankSize, String vehicleClass, String engineType, String brand, String model, String color , int gears, float maxSpeed, float maxReverseSpeed) {
+        super(weight, seatCount, fuelTankSize, vehicleClass, engineType, brand, model, color, gears, maxSpeed, maxReverseSpeed);
+    }
+    public OwnedCar(String owner, float weight, int seatCount, float fuelTankSize, String vehicleClass, String engineType, String brand, String model, String color , int gears, float maxSpeed, float maxReverseSpeed) {
+        super(weight, seatCount, fuelTankSize, vehicleClass, engineType, brand, model, color, gears, maxSpeed, maxReverseSpeed);
+        this.owner = owner;
+    }
 
     public void setOwner(String owner) {
         this.owner = owner;
