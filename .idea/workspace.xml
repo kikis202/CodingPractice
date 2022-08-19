@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Some ArrayList exercises done">
-      <change afterPath="$PROJECT_DIR$/src/com/day4/LinkedListExercises.java" afterDir="false" />
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Some LinkedList exercises done">
+      <change afterPath="$PROJECT_DIR$/src/com/day4/HashSetExercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +44,22 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedListExercises">
+  <component name="RunManager" selected="Application.HashSetExercises">
     <configuration name="ArrayListExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day4.ArrayListExercises" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day4.HashSetExercises" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -64,19 +77,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day3.Task2" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetExercises" />
         <item itemvalue="Application.LinkedListExercises" />
         <item itemvalue="Application.ArrayListExercises" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <updated>1660733916032</updated>
       <workItem from="1660733917284" duration="4554000" />
       <workItem from="1660803358460" duration="17099000" />
-      <workItem from="1660889982722" duration="3614000" />
+      <workItem from="1660889982722" duration="4532000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -307,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660891747197</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Some LinkedList exercises done">
+      <created>1660893954407</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1660893954407</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +332,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Created class for Task1" />
     <MESSAGE value="Task1 finished" />
     <MESSAGE value="Task1 got rid of redundant println" />
     <MESSAGE value="Task1 got rid of redundant println and printf" />
@@ -350,6 +356,7 @@
     <MESSAGE value="Created class OwnedCar, that extends class Car" />
     <MESSAGE value="Completed &quot;OwnedCar&quot; class" />
     <MESSAGE value="Some ArrayList exercises done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some ArrayList exercises done" />
+    <MESSAGE value="Some LinkedList exercises done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some LinkedList exercises done" />
   </component>
 </project>
