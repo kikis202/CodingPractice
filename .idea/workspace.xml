@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Created class OwnedCar, that extends class Car">
-      <change afterPath="$PROJECT_DIR$/src/com/day3/Task5.java" afterDir="false" />
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Completed &quot;OwnedCar&quot; class">
+      <change afterPath="$PROJECT_DIR$/src/com/day4/ArrayListExercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/OwnedCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day3/OwnedCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task4">
+  <component name="RunManager" selected="Application.ArrayListExercises">
+    <configuration name="ArrayListExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day4.ArrayListExercises" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day3.Task1" />
       <module name="CodingPractice" />
@@ -98,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day2.Task6" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListExercises" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task6" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +130,7 @@
       <updated>1660733916032</updated>
       <workItem from="1660733917284" duration="4554000" />
       <workItem from="1660803358460" duration="17099000" />
+      <workItem from="1660889982722" duration="1702000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -293,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660819074229</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Completed &quot;OwnedCar&quot; class">
+      <created>1660890219237</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1660890219237</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +341,7 @@
     <MESSAGE value="Rearranged attributes of Car and Vehicle classes to make more sense" />
     <MESSAGE value="Added / rearranged methods, to set / get attributes" />
     <MESSAGE value="Created class OwnedCar, that extends class Car" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created class OwnedCar, that extends class Car" />
+    <MESSAGE value="Completed &quot;OwnedCar&quot; class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed &quot;OwnedCar&quot; class" />
   </component>
 </project>
