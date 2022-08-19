@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Some LinkedList exercises done">
-      <change afterPath="$PROJECT_DIR$/src/com/day4/HashSetExercises.java" afterDir="false" />
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Some HashSet exercises done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +129,7 @@
       <updated>1660733916032</updated>
       <workItem from="1660733917284" duration="4554000" />
       <workItem from="1660803358460" duration="17099000" />
-      <workItem from="1660889982722" duration="4532000" />
+      <workItem from="1660889982722" duration="5250000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -314,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660893954407</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Some HashSet exercises done">
+      <created>1660894919941</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1660894919941</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +338,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task1 finished" />
     <MESSAGE value="Task1 got rid of redundant println" />
     <MESSAGE value="Task1 got rid of redundant println and printf" />
     <MESSAGE value="Task3 done" />
@@ -357,6 +362,7 @@
     <MESSAGE value="Completed &quot;OwnedCar&quot; class" />
     <MESSAGE value="Some ArrayList exercises done" />
     <MESSAGE value="Some LinkedList exercises done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some LinkedList exercises done" />
+    <MESSAGE value="Some HashSet exercises done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some HashSet exercises done" />
   </component>
 </project>
