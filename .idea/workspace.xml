@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Some I/O stream exercises done">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/day3/BankAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day2/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day2/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day2/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day2/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/OwnedCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/OwnedCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day3/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day4/ArrayListExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day4/ArrayListExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day4/HashSetExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day4/HashSetExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day4/InOutStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day4/InOutStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/day4/LinkedListExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day4/LinkedListExercises.java" afterDir="false" />
-    </list>
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Added JUnit tests for class BankAccount" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +25,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2DTrSZTmC6n622VtUBQyTvtbMwK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -188,7 +152,7 @@
       <workItem from="1660803358460" duration="17099000" />
       <workItem from="1660889982722" duration="8343000" />
       <workItem from="1661152507975" duration="22000" />
-      <workItem from="1661154118156" duration="1381000" />
+      <workItem from="1661154118156" duration="1772000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -393,7 +357,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660905570878</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added maven to the project">
+      <created>1661155609915</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1661155609915</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added target classes">
+      <created>1661155665789</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1661155665789</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added JUnit tests for class BankAccount">
+      <created>1661155695841</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1661155695841</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,10 +396,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task1 got rid of redundant println and printf" />
-    <MESSAGE value="Task3 done" />
-    <MESSAGE value="Task4 done" />
-    <MESSAGE value="Task5 and Task6 done" />
     <MESSAGE value="Formated Tasks: 3; 4; 5; 6" />
     <MESSAGE value="Rendamed path for day2 tasks, added path for day3 tasks" />
     <MESSAGE value="Task1 done" />
@@ -436,6 +417,10 @@
     <MESSAGE value="Some LinkedList exercises done" />
     <MESSAGE value="Some HashSet exercises done" />
     <MESSAGE value="Some I/O stream exercises done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some I/O stream exercises done" />
+    <MESSAGE value="Some leftover changes" />
+    <MESSAGE value="Added maven to the project" />
+    <MESSAGE value="Added target classes" />
+    <MESSAGE value="Added JUnit tests for class BankAccount" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added JUnit tests for class BankAccount" />
   </component>
 </project>
