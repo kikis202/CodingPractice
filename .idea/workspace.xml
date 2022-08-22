@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Some HashSet exercises done">
-      <change afterPath="$PROJECT_DIR$/src/com/day4/InOutStreams.java" afterDir="false" />
+    <list default="true" id="aefb3afa-1553-4488-9827-fa8d9df8d4e5" name="Changes" comment="Some I/O stream exercises done">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/day3/BankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day2/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day2/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day2/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day2/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day2/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/OwnedCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/OwnedCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day3/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day3/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day4/ArrayListExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day4/ArrayListExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day4/HashSetExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day4/HashSetExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day4/InOutStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day4/InOutStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day4/LinkedListExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/day4/LinkedListExercises.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +50,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -32,32 +69,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/krist/git/CodingPractice&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/krist/git/CodingPractice",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.InOutStreams">
-    <configuration name="ArrayListExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day4.ArrayListExercises" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.day3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BankAccountTest">
     <configuration name="HashSetExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day4.HashSetExercises" />
       <module name="CodingPractice" />
@@ -84,21 +119,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day4.LinkedListExercises" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day3.Task4" />
+    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -106,17 +127,52 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.day3.BankAccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.deposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.day3.BankAccountTest" />
+      <option name="METHOD_NAME" value="deposit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.getBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.day3.BankAccountTest" />
+      <option name="METHOD_NAME" value="getBalance" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BankAccountTest" />
+        <item itemvalue="JUnit.BankAccountTest.deposit" />
+        <item itemvalue="JUnit.BankAccountTest.getBalance" />
         <item itemvalue="Application.InOutStreams" />
         <item itemvalue="Application.HashSetExercises" />
-        <item itemvalue="Application.LinkedListExercises" />
-        <item itemvalue="Application.ArrayListExercises" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +186,9 @@
       <updated>1660733916032</updated>
       <workItem from="1660733917284" duration="4554000" />
       <workItem from="1660803358460" duration="17099000" />
-      <workItem from="1660889982722" duration="8311000" />
+      <workItem from="1660889982722" duration="8343000" />
+      <workItem from="1661152507975" duration="22000" />
+      <workItem from="1661154118156" duration="1381000" />
     </task>
     <task id="LOCAL-00001" summary="Created class for Task1">
       <created>1660734935571</created>
@@ -328,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660898591293</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Some I/O stream exercises done">
+      <created>1660905570877</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1660905570878</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,7 +411,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task1 got rid of redundant println" />
     <MESSAGE value="Task1 got rid of redundant println and printf" />
     <MESSAGE value="Task3 done" />
     <MESSAGE value="Task4 done" />
@@ -371,6 +435,7 @@
     <MESSAGE value="Some ArrayList exercises done" />
     <MESSAGE value="Some LinkedList exercises done" />
     <MESSAGE value="Some HashSet exercises done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some HashSet exercises done" />
+    <MESSAGE value="Some I/O stream exercises done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some I/O stream exercises done" />
   </component>
 </project>

@@ -99,4 +99,8 @@ public class BankAccount {
         ba.deposit(amount);
         System.out.printf("Transaction successful | current account balance: %3.2f%n", balance);
     }
+
+    public double getBalance() {
+        return balance;
+    }
 }
